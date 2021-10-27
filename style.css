@@ -1,0 +1,69 @@
+body {
+	background: #C78881;
+	color: #D8829D;
+font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+h1{color: white;}
+h1 {font-size: 40px;}
+h2 {color: #D8829D;}
+h3 {color: white;}
+
+
+
+#photodeprofil {
+width: 150px;
+border-radius: 50%;
+position: fixed;
+top: 20px;
+left: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.icones > li {
+	display: inline;
+}
+
+li > a {
+	color: #D8829D;
+	size: 1000px;}
+
+	a:hover {
+		color: pink;}
+
+
+.card {
+	background: #F4F4F9;
+	border-radius: 10px;
+	padding: 4px;
+	padding-bottom: 15px;
+	width: 1000px;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin: 30px auto;
+	box-shadow: 10px 10px 7px #C17C74;
+}
+
+.icones {
+	font-size: 32px;
+	white-space: 10px;
+}
+
+button {
+	background-color: #C78881;
+	border-radius: 15px;
+	padding: 10px;
+	border: #C78881;
+	margin-top: 13px;
+}
+
+a {
+	text-decoration: none;
+	color: whitesmoke;
+}
+
